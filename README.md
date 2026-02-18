@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# 🎈 Dashcam TBW & capacity calculator
 
-A simple Streamlit app template for you to modify!
+This is a simple Streamlit utility to help estimate how much data your dashcam writes and what microSD capacity / TBW (total bytes written) you should pick. Enter each stream's file size and length, set recording hours/day and expected card lifetime — the app shows GB/day, TB/year, suggested card sizes, and a TBW recommendation.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
